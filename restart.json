@@ -1,0 +1,7 @@
+{
+  "watch": [
+    "src"
+  ],
+  "exec": "NODE_ENV=development ts-node-dev -r tsconfig-paths/register -r dotenv/config src/index",
+  "ext": "ts"
+}

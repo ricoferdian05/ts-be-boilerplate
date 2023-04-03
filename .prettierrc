@@ -1,0 +1,19 @@
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "printWidth": 120,
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "all",
+  "useTabs": false,
+  "overrides": [
+    {
+      "files": "*.yaml",
+      "options": {
+        "tadWidth": 2,
+        "printWidth": 40,
+        "singleQuote": true
+      }
+    }
+  ]
+}

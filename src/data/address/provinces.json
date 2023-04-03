@@ -1,0 +1,274 @@
+[
+  {
+    "Code": "11",
+    "Parent": "62",
+    "Name": "ACEH",
+    "Latitude": "4.0405070151375",
+    "Longitude": "96.649002928244",
+    "Postal": "20000,23000,24000"
+  },
+  {
+    "Code": "12",
+    "Parent": "62",
+    "Name": "SUMATERA UTARA",
+    "Latitude": "1.8313656694909",
+    "Longitude": "98.742431763566",
+    "Postal": "20000,22000"
+  },
+  {
+    "Code": "13",
+    "Parent": "62",
+    "Name": "SUMATERA BARAT",
+    "Latitude": "-1.5544416939782",
+    "Longitude": "100.24479865029",
+    "Postal": "20000,25000,27000"
+  },
+  {
+    "Code": "14",
+    "Parent": "62",
+    "Name": "RIAU",
+    "Latitude": "0.89842758991219",
+    "Longitude": "101.91972988343",
+    "Postal": "20000,28000,29000"
+  },
+  {
+    "Code": "15",
+    "Parent": "62",
+    "Name": "JAMBI",
+    "Latitude": "-1.7516813189869",
+    "Longitude": "102.81327938858",
+    "Postal": "30000,36000,37000"
+  },
+  {
+    "Code": "16",
+    "Parent": "62",
+    "Name": "SUMATERA SELATAN",
+    "Latitude": "-3.2753964190087",
+    "Longitude": "104.12844764389",
+    "Postal": "30000,32000"
+  },
+  {
+    "Code": "17",
+    "Parent": "62",
+    "Name": "BENGKULU",
+    "Latitude": "-3.8956670126217",
+    "Longitude": "102.3929013022",
+    "Postal": "30000,38000,39000"
+  },
+  {
+    "Code": "18",
+    "Parent": "62",
+    "Name": "LAMPUNG",
+    "Latitude": "-4.946190430793",
+    "Longitude": "104.89134354822",
+    "Postal": "30000,34000,35000"
+  },
+  {
+    "Code": "19",
+    "Parent": "62",
+    "Name": "KEPULAUAN BANGKA BELITUNG",
+    "Latitude": "-2.4593299657045",
+    "Longitude": "106.97804147244",
+    "Postal": "30000,33000"
+  },
+  {
+    "Code": "21",
+    "Parent": "62",
+    "Name": "KEPULAUAN RIAU",
+    "Latitude": "1.7497005452947",
+    "Longitude": "106.22460268587",
+    "Postal": "20000,29000"
+  },
+  {
+    "Code": "31",
+    "Parent": "62",
+    "Name": "DKI JAKARTA",
+    "Latitude": "-5.7775778675737",
+    "Longitude": "106.67797574114",
+    "Postal": "10000,14000"
+  },
+  {
+    "Code": "32",
+    "Parent": "62",
+    "Name": "JAWA BARAT",
+    "Latitude": "-6.8695633505675",
+    "Longitude": "107.60859278383",
+    "Postal": "10000,40000,16000,17000,46000"
+  },
+  {
+    "Code": "33",
+    "Parent": "62",
+    "Name": "JAWA TENGAH",
+    "Latitude": "-6.9688115063451",
+    "Longitude": "110.1236334162",
+    "Postal": "50000,54000,56000,59000"
+  },
+  {
+    "Code": "34",
+    "Parent": "62",
+    "Name": "DI YOGYAKARTA",
+    "Latitude": "-7.8729522175198",
+    "Longitude": "110.41881094232",
+    "Postal": "50000,55000"
+  },
+  {
+    "Code": "35",
+    "Parent": "62",
+    "Name": "JAWA TIMUR",
+    "Latitude": "-6.9146085680302",
+    "Longitude": "113.584454335",
+    "Postal": "60000,69000"
+  },
+  {
+    "Code": "36",
+    "Parent": "62",
+    "Name": "BANTEN",
+    "Latitude": "-6.4120984789109",
+    "Longitude": "105.93988078082",
+    "Postal": "10000,40000,15000,42000"
+  },
+  {
+    "Code": "51",
+    "Parent": "62",
+    "Name": "BALI",
+    "Latitude": "-8.455528022999",
+    "Longitude": "115.07188561078",
+    "Postal": "80000,82000"
+  },
+  {
+    "Code": "52",
+    "Parent": "62",
+    "Name": "NUSA TENGGARA BARAT",
+    "Latitude": "-8.5948553138209",
+    "Longitude": "117.57839644019",
+    "Postal": "80000,83000,84000"
+  },
+  {
+    "Code": "53",
+    "Parent": "62",
+    "Name": "NUSA TENGGARA TIMUR",
+    "Latitude": "-9.535486224309",
+    "Longitude": "122.06016739861",
+    "Postal": "80000,85000,87000"
+  },
+  {
+    "Code": "61",
+    "Parent": "62",
+    "Name": "KALIMANTAN BARAT",
+    "Latitude": "-0.49330874430228",
+    "Longitude": "111.4502420264",
+    "Postal": "70000,78000,79000"
+  },
+  {
+    "Code": "62",
+    "Parent": "62",
+    "Name": "KALIMANTAN TENGAH",
+    "Latitude": "-1.3828870209185",
+    "Longitude": "113.29084959184",
+    "Postal": "70000,73000,74000"
+  },
+  {
+    "Code": "63",
+    "Parent": "62",
+    "Name": "KALIMANTAN SELATAN",
+    "Latitude": "-3.0299264148214",
+    "Longitude": "115.45276612806",
+    "Postal": "70000,72000"
+  },
+  {
+    "Code": "64",
+    "Parent": "62",
+    "Name": "KALIMANTAN TIMUR",
+    "Latitude": "0.11057440433612",
+    "Longitude": "116.41253260035",
+    "Postal": "70000,75000,77000"
+  },
+  {
+    "Code": "65",
+    "Parent": "62",
+    "Name": "KALIMANTAN UTARA",
+    "Latitude": "2.7260163427808",
+    "Longitude": "116.2877362242",
+    "Postal": "70000,77000"
+  },
+  {
+    "Code": "71",
+    "Parent": "62",
+    "Name": "SULAWESI UTARA",
+    "Latitude": "2.9290032454043",
+    "Longitude": "125.13740613014",
+    "Postal": "90000,95000"
+  },
+  {
+    "Code": "72",
+    "Parent": "62",
+    "Name": "SULAWESI TENGAH",
+    "Latitude": "-1.1327950239204",
+    "Longitude": "121.81423338247",
+    "Postal": "90000,94000"
+  },
+  {
+    "Code": "73",
+    "Parent": "62",
+    "Name": "SULAWESI SELATAN",
+    "Latitude": "-4.8270882079536",
+    "Longitude": "119.43934665323",
+    "Postal": "90000,91000,92000"
+  },
+  {
+    "Code": "74",
+    "Parent": "62",
+    "Name": "SULAWESI TENGGARA",
+    "Latitude": "-4.495460756408",
+    "Longitude": "122.73848458035",
+    "Postal": "90000,93000"
+  },
+  {
+    "Code": "75",
+    "Parent": "62",
+    "Name": "GORONTALO",
+    "Latitude": "0.67341929051864",
+    "Longitude": "122.35676989916",
+    "Postal": "90000,96000"
+  },
+  {
+    "Code": "76",
+    "Parent": "62",
+    "Name": "SULAWESI BARAT",
+    "Latitude": "-2.2084920575116",
+    "Longitude": "118.47246590413",
+    "Postal": "90000,91000"
+  },
+  {
+    "Code": "81",
+    "Parent": "62",
+    "Name": "MALUKU",
+    "Latitude": "-4.8627891757291",
+    "Longitude": "130.31552224865",
+    "Postal": "90000,97000"
+  },
+  {
+    "Code": "82",
+    "Parent": "62",
+    "Name": "MALUKU UTARA",
+    "Latitude": "0.084059079563701",
+    "Longitude": "126.97025845486",
+    "Postal": "90000,97000"
+  },
+  {
+    "Code": "91",
+    "Parent": "62",
+    "Name": "PAPUA BARAT",
+    "Latitude": "-1.8372378964609",
+    "Longitude": "132.28284465821",
+    "Postal": "90000,98000"
+  },
+  {
+    "Code": "94",
+    "Parent": "62",
+    "Name": "PAPUA",
+    "Latitude": "-4.0912830155479",
+    "Longitude": "137.65753146755",
+    "Postal": "90000,98000,99000"
+  }
+]
